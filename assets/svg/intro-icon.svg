@@ -1,0 +1,38 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1_123)">
+<rect x="5" y="3" width="50" height="50" rx="8" fill="url(#paint0_linear_1_123)"/>
+<rect x="6" y="4" width="48" height="48" rx="7" stroke="#0D3573" stroke-width="2"/>
+</g>
+<g clip-path="url(#clip0_1_123)" filter="url(#filter1_d_1_123)">
+<path opacity="0.4" d="M20.7788 28.4039C20.2417 28.941 20.2417 29.8133 20.7788 30.3504L22.1538 31.7254L26.7515 36.323L26.962 36.5336C27.9159 37.4875 29.0761 38.1191 30.2964 38.4285C31.0655 38.652 31.8562 38.768 32.6554 38.768C34.4472 38.768 36.2433 38.1922 37.7558 37.0277C39.8011 35.4465 40.9999 33.0102 40.9999 30.4234V22.8438C40.9999 21.8941 40.2308 21.125 39.2812 21.125C38.3315 21.125 37.5624 21.8941 37.5624 22.8438V26.1824C37.5624 26.3844 37.3046 26.4832 37.1585 26.3414L28.9085 18.0914C28.6421 17.8207 28.2897 17.6875 27.9374 17.6875C27.5851 17.6875 27.2327 17.8207 26.9663 18.0914C26.4292 18.6285 26.4292 19.5008 26.9663 20.0379L32.4062 25.4777C32.6296 25.7012 32.6296 26.0621 32.4062 26.2812C32.1827 26.5004 31.8218 26.5047 31.6026 26.2812L25.471 20.1539C24.9339 19.6168 24.0616 19.6168 23.5245 20.1539C22.9874 20.691 22.9874 21.5633 23.5245 22.1004L29.6562 28.2277C29.8796 28.4512 29.8796 28.8121 29.6562 29.0312C29.4327 29.2504 29.0718 29.2547 28.8526 29.0312L23.4085 23.5914C22.8714 23.0543 21.9991 23.0543 21.462 23.5914C20.9249 24.1285 20.9249 25.0008 21.462 25.5379L26.9062 30.9777C27.1296 31.2012 27.1296 31.5621 26.9062 31.7812C26.6827 32.0004 26.3218 32.0047 26.1026 31.7812L24.1003 29.7789C23.6405 29.3191 23.1808 28.8594 22.7253 28.4039C22.1882 27.8668 21.3159 27.8668 20.7788 28.4039Z" fill="#EEEEEE"/>
+<path d="M34.1335 20.5364C34.1893 20.9102 34.5374 21.1723 34.9112 21.1207C35.285 21.0692 35.5472 20.7168 35.4956 20.343L35.444 19.9778C35.2292 18.4653 34.0389 17.275 32.5265 17.0602L32.1612 17.0086C31.7874 16.9571 31.435 17.2149 31.3835 17.593C31.3319 17.9711 31.5897 18.3192 31.9679 18.3707L32.3331 18.4223C33.2397 18.5512 33.953 19.2645 34.0819 20.1711L34.1335 20.5364ZM20.3663 32.7137C20.3147 32.3399 19.9624 32.0778 19.5886 32.1293C19.2147 32.1809 18.9526 32.5332 19.0085 32.9114L19.06 33.2766C19.2749 34.7891 20.4651 35.9793 21.9776 36.1942L22.3429 36.2457C22.7167 36.3016 23.069 36.0395 23.1206 35.6614C23.1722 35.2832 22.9143 34.9352 22.5362 34.8836L22.171 34.8321C21.2643 34.7032 20.5511 33.9899 20.4222 33.0832L20.3706 32.718L20.3663 32.7137Z" fill="#EEEEEE"/>
+</g>
+<defs>
+<filter id="filter0_d_1_123" x="0" y="0" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_123"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_123" result="shape"/>
+</filter>
+<filter id="filter1_d_1_123" x="14" y="14" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_123"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_123" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_123" x1="30" y1="3" x2="30" y2="53" gradientUnits="userSpaceOnUse">
+<stop stop-color="#124BA1"/>
+<stop offset="1" stop-color="#0C316A"/>
+</linearGradient>
+<clipPath id="clip0_1_123">
+<rect width="22" height="22" fill="white" transform="translate(19 17)"/>
+</clipPath>
+</defs>
+</svg>
