@@ -772,6 +772,28 @@ button > svg {
 	.header-wrapper {
 		gap: 0.5rem;
 	}
+
+	.container {
+		margin-right: 0;
+	}
+
+	aside {
+		border-top: 2px solid #222;
+		border-bottom: 2px solid #222;
+		border-left: none;
+		border-right: none;
+		position: fixed;
+		min-width: 100vw;
+		min-height: fit-content;
+		right: 0;
+		top: auto;
+		bottom: 0;
+		z-index: 1;
+	}
+
+	footer {
+		margin-bottom: 110px;
+	}
 }
 
 @media (max-width: 668px) {
