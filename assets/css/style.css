@@ -67,7 +67,7 @@ footer a {
 }
 
 header {
-	background-image: url("assets/images/hero-img.webp");
+	background-image: url("/assets/images/hero-img.webp");
 	background-size: cover;
 	background-repeat: no-repeat;
 	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
@@ -718,7 +718,7 @@ button>svg {
 	}
 
 	.services-list {
-        margin-top: -20rem;
+		margin-top: -20rem;
 	}
 }
 
@@ -986,7 +986,9 @@ button>svg {
 		flex-direction: column;
 	}
 
-	.btn-primary, .btn-secondary, .btn-secondary-dark {
+	.btn-primary,
+	.btn-secondary,
+	.btn-secondary-dark {
 		width: 100%;
 		max-width: 400px;
 	}
@@ -1010,7 +1012,9 @@ button>svg {
 		max-width: 350px;
 	}
 
-	.btn-primary, .btn-secondary, .btn-secondary-dark {
+	.btn-primary,
+	.btn-secondary,
+	.btn-secondary-dark {
 		max-width: 350px;
 	}
 
