@@ -138,6 +138,7 @@ h1 span {
 	text-decoration: none;
 	color: #111;
 	font-size: 18px;
+	padding-right: 1rem;
 }
 
 .ui {
@@ -670,7 +671,7 @@ button>svg {
 	}
 
 	.services-list {
-		margin-top: -19rem;
+		margin-top: -22rem;
 		flex-direction: row;
 		justify-content: center;
 		align-items: center;
@@ -719,6 +720,16 @@ button>svg {
 	}
 }
 
+@media (max-width: 900px) {
+	h1 {
+		font-size: 2.25rem;
+	}
+
+	h1 span {
+		font-size: 4rem;
+	}
+}
+
 @media (max-width: 868px) {
 	.bg-black-grad img {
 		margin-top: -3rem;
@@ -734,7 +745,7 @@ button>svg {
 	}
 
 	h1 span {
-		font-size: 3.75rem;
+		font-size: 3.5rem;
 	}
 
 	.intro-p {
