@@ -712,6 +712,10 @@ button>svg {
 		margin-top: -6rem;
 		margin-right: -3.9rem;
 	}
+
+	.services-list {
+        margin-top: -20rem;
+	}
 }
 
 @media (max-width: 968px) {
