@@ -845,6 +845,8 @@ button>svg {
 		text-decoration: none;
 		color: #111;
 		font-size: 18px;
+		padding-left: .8rem;
+		padding-right: 1rem;
 	}
 
 	.ui {
@@ -862,7 +864,7 @@ button>svg {
 		justify-content: center;
 		align-items: center;
 		text-align: center;
-
+		padding-left: 1.1rem;
 	}
 
 	.aside-top-nav {
