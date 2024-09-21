@@ -3,7 +3,7 @@
 
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9VYN7GW7F3"></script>
+    <script async src="assets/js/gtm.js"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -95,19 +95,22 @@
                         <span>Let’s talk about it.</span>
                     </p>
                     <div class="btn-wrap">
-                        <button class="btn-primary" id="booking-btn"
-                            onclick="location.href='https://calendar.app.google/ss6n3JVBex7MwTWVA', '_blank'"><i
+                        <button class="btn-primary" id="booking-btn" onclick="location.href='#google-booking-iframe'"><i
                                 class="fa-duotone fa-solid fa-camera-web"></i>Book Meeting</button>
                         <button class="btn-secondary-dark" id="send-msg-btn" onclick="location.href='#contact-form'"><i
                                 class="fa-duotone fa-solid fa-messages"></i>Send Message</button>
                     </div>
+                    <!-- Google Calendar Appointment Scheduling begin -->
+                    <iframe class="google-booking-iframe" id="google-booking-iframe"
+                        src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0BAfIyWlWveIQvzuMgA1Moy5IMuD8S70hMZZgtP11WS76hCFKS2VYXo_yfQi_oh5Xnou7oQyZP?gv=true"
+                        style="border: 0" width="100%" height="1225px" frameborder="0"></iframe>
+                    <!-- end Google Calendar Appointment Scheduling -->
                     <form id="contact-form" class="contact-form" method="POST">
                         <p>Please fill out the form below.</p>
 
                         <input type="hidden" name="access_key" value="91bbf51d-874d-4afb-9d96-1a0b7fc74229">
 
-                        <input type="text" name="name" placeholder="Enter your name" id="first-input" autocomplete="on"
-                            required>
+                        <input type="text" name="name" placeholder="Enter your name" id="first-input" autocomplete="on" required>
                         <input type="email" name="email" placeholder="Enter your email" autocomplete="on" required>
                         <textarea name="message" placeholder="Enter your message" required></textarea>
                         <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
