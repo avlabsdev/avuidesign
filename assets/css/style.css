@@ -701,6 +701,10 @@ button>svg {
 	.services-list-lvl-1 li:nth-of-type(2) {
 		width: 287px;
 	}
+
+	.services-title-heading {
+		margin-top: 13px;
+	}
 }
 
 @media (max-width: 1024px) {
